@@ -5,12 +5,12 @@ A detecção de bordas é uma técnica essencial no processamento de imagens, po
 Os filtros de Sobel aplicados são definidos da seguinte forma:
 - **Filtro de Sobel Horizontal:**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cfdcd8f3-50f9-46d9-a447-5e2777867fa4">
+  <img src="https://github.com/user-attachments/assets/b5c446ce-b368-435a-ae56-7e781b23ad1c">
 </p>
 Detecta bordas verticais ao calcular a variação horizontal da intensidade dos pixels.
 - **Filtro de Sobel Vertical:**
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ac54ec23-98ac-4d7a-b8db-3c000e437e0b">
+  <img src="https://github.com/user-attachments/assets/b0a09640-51c9-4222-b86e-687f5fe6fcb3">
 </p>
 Detecta bordas horizontais ao calcular a variação vertical da intensidade dos pixels.
 
