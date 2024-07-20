@@ -8,6 +8,7 @@ Os filtros de Sobel aplicados são definidos da seguinte forma:
   <img src="https://github.com/user-attachments/assets/b5c446ce-b368-435a-ae56-7e781b23ad1c">
 </p>
 Detecta bordas verticais ao calcular a variação horizontal da intensidade dos pixels.
+
 - **Filtro de Sobel Vertical:**
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b0a09640-51c9-4222-b86e-687f5fe6fcb3">
